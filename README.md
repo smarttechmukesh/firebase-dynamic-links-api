@@ -16,4 +16,4 @@ So if you're looking for a powerful and flexible solution for creating Firebase 
 
 ## Premium Code
 
-- [Get Premium Source Code (No Encrypted JavaScript)](https://smarttechmukesh.com/)
+- [Get Premium Source Code (No Encrypted JavaScript)](https://www.buymeacoffee.com/smarttechmukesh/e/127141)
