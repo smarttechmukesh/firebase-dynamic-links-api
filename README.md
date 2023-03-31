@@ -7,9 +7,12 @@ Our solution is designed to be easy to use, with intuitive interfaces and straig
 
 So if you're looking for a powerful and flexible solution for creating Firebase Dynamic Links, look no further than our HTML, CSS, JavaScript, and Firebase API integration. With our help, you can create the links you need to drive user engagement and improve your conversion rates, all while enjoying a seamless and intuitive user experience.
 
+## Demo Link
+- [Click here to See Demo](https://smarttechmukesh.github.io/firebase-dynamic-links-api/)
+
 ## Source Code
 
-- [Get Free Source Code (Encrypted JavaScript)](https://smarttechmukesh.com/)
+- [Get Free Source Code (Encrypted JavaScript)](https://www.smarttechmukesh.com/)
 
 ## Premium Code
 
