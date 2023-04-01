@@ -12,8 +12,10 @@ So if you're looking for a powerful and flexible solution for creating Firebase 
 
 ## Source Code
 
-- [Get Free Source Code (Encrypted JavaScript)](https://www.smarttechmukesh.com/)
+- [Get Free Source Code (Encrypted JavaScript)](https://github.com/smarttechmukesh/firebase-dynamic-links-api/releases/)
 
 ## Premium Code
 
 - [Get Premium Source Code (No Encrypted JavaScript)](https://www.buymeacoffee.com/smarttechmukesh/e/127141)
+## Official Website
+- [Visit Our Official Website](https://www.smarttechmukesh.com/)
